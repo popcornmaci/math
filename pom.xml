@@ -16,6 +16,17 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+    <organization>
+        <name>Debreceni Egyetem Informatika Kar</name>
+        <url>http://www.inf.unideb.hu</url>    
+    </organization>
+    <inceptionYear>2015</inceptionYear>
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.build.outputEncoding>UTF-8</project.build.outputEncoding>
